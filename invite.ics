@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Ben Fortuna//iCal4j 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+X-WR-RELCALID:436518
+BEGIN:VEVENT
+DTSTAMP:20261104T130920Z
+ORGANIZER;CN=Dawood Abbas;SENT-BY="MAILTO:ibex+email+1m8z1-04350bca05@talent.icims.com":MAILTO:ibex+email+1m8z1-04350bca05@talent.icims.com
+DTSTART:20261105T123000Z
+DTEND:20261105T130000Z
+SEQUENCE:0
+UID:4a762a8b-1107-445d-94d3-14208cd0a26a@iCIMS
+SUMMARY:Invitation from IBEX Global for the Inbound Sales Executive position
+ATTENDEE;CN=Umer Sarwar .;RSVP=TRUE;ROLE=REQ-PARTICIPANT:MAILTO:umersarwar316@gmail.com
+DESCRIPTION:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nInvitation from IBEX Global for the Inbound Sales Executive position\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n[[ Required Attendees ]]\nUmer Sarwar . <umersarwar316@gmail.com>\n\nHello Umer Sarwar\,\n \nThank you for expressing interest in IBEX Global. You have been scheduled for an interview in regards to the Inbound Sales Executive position. Please review the invitation details and accept or decline.\n \n Agenda for Nov 05\, 2026 \n\nNov 05\, 2026\, 05:30 PM | Onsite interview with Umer Sarwar .\nPlot no. 13A\, Aitchison Street 1KM Thokar Niaz Baig\, Raiwind Road Lahore PAK\nDawood Abbas\n\n All agenda times are in UTC+05:00  \n \nThank you\,\nDawood Abbas\ndawood.abbas@ibex.co\n \n \n \n 
+LOCATION:Plot no. 13A\, Aitchison Street 1KM Thokar Niaz Baig\, Raiwind Road Lahore PAK
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
